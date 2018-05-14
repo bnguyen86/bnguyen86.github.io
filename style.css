@@ -9,3 +9,7 @@
     margin-top: -3rem;
     padding-bottom: 1rem;
 }
+
+.list-group-item.active{
+    border-color: #000;
+}
