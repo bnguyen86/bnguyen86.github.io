@@ -10,6 +10,16 @@
     padding-bottom: 1rem;
 }
 
+
 .list-group-item.active{
     border-color: #000;
+}
+
+.navbar{
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.jumbotron{
+    margin-top: 2rem;
 }
