@@ -27,7 +27,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent-3">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link waves-effect waves-light" href="home.html">Home
                                 <span class="sr-only">(current)</span>
                             </a>
@@ -38,7 +38,7 @@
                     <li class="nav-item">
                         <a class="nav-link waves-effect waves-light" href="videos.html">Videos</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item active">
                         <a class="nav-link waves-effect waves-light" href="journeys.html">Journeys</a>
                     </li>
                     <li class="nav-item">
@@ -74,9 +74,9 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link waves-effect waves-light">
+                        <a id="points-indicator" class="nav-link waves-effect waves-light">
                             <!-- <i class="fa fa-google-plus"></i> -->
-                            <span>+100 Points</span>
+                            <span>+500 Points</span>
                         </a>
                     </li>
                 </ul>
@@ -87,7 +87,41 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col">
-                    <h1>Profile</h1>
+                    <div class="jumbotron">
+                        <div class="row justify-content-end close-bar">
+                            <div class="">
+                                <a href="home.html">
+                                    <i class="fa fa-times fa-2x"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <h1 class="h1-responsive">Take a Tour</h1>
+                                <h5 class="pt-4">Congradulations, you have earned</h5>
+                                <h2 class="pb-4">
+                                    400 points.
+                                </h2>
+                                <p class="lead">
+                                    You are well on your way to earning the "Onboarding Badge".  Proceed to the next step to continue your journey.
+                                </p>
+                                <hr class="my-2">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                </p>
+                                <a class="btn btn-blue-grey btn-lg" role="button" href="home-withTooltip.html">Back</a>
+                                <a class="btn btn-primary btn-lg" role="button" href="index-upload-photo.html">Next Step</a>
+                            </div>
+                            <div class="col-2">
+                                <div class="list-group">
+                                    <a id="welcome" href="index.html" class="list-group-item waves-light">Welcome</a>
+                                    <a id="take-tour" href="index-take-a-tour.html" class="list-group-item waves-effect active brown">Take a Tour</a>
+                                    <a id="upload-photo" href="index-upload-photo.html" class="list-group-item waves-effect">Upload Profile Photo</a>
+                                    <a id="videos" href="index-video.html" class="list-group-item waves-effect">Browse Videos</a>
+                                    <a id="questions" href="index-questions.html" class="list-group-item waves-effect">Ask a Question</a>
+                                </div>        
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>        
@@ -152,8 +186,14 @@
     <!-- Bootstrap core JavaScript -->
     <script type="text/javascript" src="node_modules/mdbootstrap/js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="node_modules/mdbootstrap/js/mdb.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js"></script>
-<script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="node_modules/mdbootstrap/js/mdb.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript">
+        $(() => {
+            initTooltips('#points-indicator', 'Your point total will be kept here.  Click to view all the points that you have earned so far.');
+        }); 
+    </script>
 </body>
 
 </html>

@@ -63,14 +63,18 @@
                 <ul class="navbar-nav ml-auto nav-flex-icons">
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle waves-effect waves-light" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        <a  class="nav-link dropdown-toggle waves-effect waves-light"
+                            id="navbarDropdownMenuLink"
+                            data-toggle="dropdown"
+                            aria-haspopup="true"
+                            aria-expanded="true">
                                 <i class="fa fa-shield"></i>
                                 <span>Badges</span>
                             </a>
                         <div class="dropdown-menu dropdown-menu-right dropdown-default" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item waves-effect waves-light" href="#">Action</a>
-                            <a class="dropdown-item waves-effect waves-light" href="#">Another action</a>
-                            <a class="dropdown-item waves-effect waves-light" href="#">Something else here</a>
+                            <a class="dropdown-item waves-effect waves-light" href="index.html">Onboarding Badge</a>
+                            <a class="dropdown-item waves-effect waves-light" href="#">Invite a Friend Badge</a>
+                            <a class="dropdown-item waves-effect waves-light" href="#">Make A Purchase Badge</a>
                         </div>
                     </li>
                     <li class="nav-item">
@@ -87,7 +91,9 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col">
-                    <h1>Profile</h1>
+                    <h1>Site Tour</h1>
+                    <p>PLACEHOLDER FOR ACTUAL TOUR</p>
+                    <a class="btn btn-primary btn-lg" role="button" href="index-take-a-tour-done.html">RETURN TO ONBOARDING WIZARD</a>
                 </div>
             </div>
         </div>        
@@ -152,8 +158,17 @@
     <!-- Bootstrap core JavaScript -->
     <script type="text/javascript" src="node_modules/mdbootstrap/js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="node_modules/mdbootstrap/js/mdb.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js"></script>
-<script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="node_modules/mdbootstrap/js/mdb.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+
+    <script type="text/javascript">
+        $(() => {
+            initTooltips('#navbarDropdownMenuLink', 'Return to the "Onboarding Badge" anytime here');
+        }); 
+    </script>
 </body>
 
 </html>

@@ -114,15 +114,15 @@
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                 </p>
                                 <a class="btn btn-blue-grey btn-lg" role="button" href="home-withTooltip.html">Back</a>
-                                <a class="btn btn-primary btn-lg" role="button" href="index-take-a-tour.html">Take the Tour</a>
+                                <a class="btn btn-primary btn-lg" role="button" href="tour.html">Take the Tour</a>
                             </div>
                             <div class="col-2">
                                 <div class="list-group">
-                                  <a <a id="welcome" href="index.html" class="list-group-item waves-light">Welcome</a>
-                                  <a <a id="take-tour" href="index-take-a-tour.html" class="list-group-item active waves-effect brown">Take a Tour</a>
-                                  <a <a id="upload-photo" href="index.html" class="list-group-item waves-effect">Upload Profile Photo</a>
-                                  <a <a id="videos" href="index.html" class="list-group-item waves-effect">Browse Videos</a>
-                                  <a <a id="questions" href="index.html" class="list-group-item waves-effect">Ask a Question</a>
+                                    <a id="welcome" href="index.html" class="list-group-item waves-light">Welcome</a>
+                                    <a id="take-tour" href="index-take-a-tour.html" class="list-group-item waves-effect active brown">Take a Tour</a>
+                                    <a id="upload-photo" href="index-upload-photo.html" class="list-group-item waves-effect">Upload Profile Photo</a>
+                                    <a id="videos" href="index-video.html" class="list-group-item waves-effect">Browse Videos</a>
+                                    <a id="questions" href="index-questions.html" class="list-group-item waves-effect">Ask a Question</a>
                                 </div>        
                             </div>
                         </div>
@@ -192,6 +192,13 @@
     <script type="text/javascript" src="node_modules/mdbootstrap/js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="node_modules/mdbootstrap/js/mdb.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript">
+        $(() => {
+            initTooltips('#take-tour', 'Skip to any step in the current journey from here.');
+        }); 
+    </script>
 </body>
 
 </html>
