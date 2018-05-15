@@ -22,20 +22,24 @@
     <!-- Start your project here-->
     <div class="main">
         <nav class="mb-1 navbar navbar-expand-lg navbar-dark brown">
-            <a class="navbar-brand" href="home.html">Coffee Friends</a>
+            <a class="navbar-brand" href="index.html">Coffee Friends</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-3" aria-controls="navbarSupportedContent-3" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent-3">
                 <ul class="navbar-nav mr-auto">
-                    
+                    <li class="nav-item">
+                        <a class="nav-link waves-effect waves-light" href="home.html">Home
+                                <span class="sr-only">(current)</span>
+                            </a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link waves-effect waves-light" href="contacts.html">Contacts</a>
                     </li>
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link waves-effect waves-light" href="videos.html">Videos</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item active">
                         <a class="nav-link waves-effect waves-light" href="journeys.html">Journeys</a>
                     </li>
                     <li class="nav-item">
@@ -65,7 +69,7 @@
                                 <span>Badges</span>
                             </a>
                         <div class="dropdown-menu dropdown-menu-right dropdown-default" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item waves-effect waves-light" href="index-upload-photo.html">Onboarding Badge</a>
+                            <a class="dropdown-item waves-effect waves-light" href="#">Action</a>
                             <a class="dropdown-item waves-effect waves-light" href="#">Another action</a>
                             <a class="dropdown-item waves-effect waves-light" href="#">Something else here</a>
                         </div>
@@ -73,7 +77,7 @@
                     <li class="nav-item">
                         <a class="nav-link waves-effect waves-light">
                             <!-- <i class="fa fa-google-plus"></i> -->
-                            <span>+700 Points</span>
+                            <span>+1000 Points</span>
                         </a>
                     </li>
                 </ul>
@@ -84,12 +88,44 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col">
-                    <h1>Videos</h1>
-                    <p>PLACEHOLDER FOR VIDEO PAGE</p>
-                    <a class="btn btn-primary btn-lg" role="button" href="index-video-done.html">RETURN TO ONBOARDING WIZARD</a>
+                    <div class="jumbotron">
+                        <div class="row justify-content-end close-bar">
+                            <div class="">
+                                <a href="home.html">
+                                    <i class="fa fa-times fa-2x"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <h1 class="h1-responsive">Onboarding Badge</h1>
+                                <h5 class="pt-4">Congratulations, you have earned the</h5>
+                                <h2 class="pb-4">
+                                    <i class="fa fa-shield fa-lg"></i> Onboarding Badge
+                                </h2>
+                                <p class="lead">
+                                    Congratulations! [BADGE IMAGE]
+                                </p>
+                                <hr class="my-2">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                </p>
+                                <a class="btn btn-blue-grey btn-lg" role="button" href="index-video.html">Back</a>
+                                <a class="btn btn-primary btn-lg" role="button" href="index-complete.html">Continue</a>
+                            </div>
+                            <div class="col-2">
+                                <div class="list-group">
+                                    <a id="welcome" href="index.html" class="list-group-item waves-light">Welcome</a>
+                                    <a id="take-tour" href="index-take-a-tour.html" class="list-group-item waves-effect">Take a Tour</a>
+                                    <a id="upload-photo" href="index-upload-photo.html" class="list-group-item waves-effect">Upload Profile Photo</a>
+                                    <a id="videos" href="index-video.html" class="list-group-item waves-effect">Browse Videos</a>
+                                    <a id="questions" href="index-questions.html" class="list-group-item waves-effect">Ask a Question</a>
+                                </div>        
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>       
+        </div>        
         <!-- CONTENT END -->
 
         <!--Footer-->
@@ -151,14 +187,14 @@
     <!-- Bootstrap core JavaScript -->
     <script type="text/javascript" src="node_modules/mdbootstrap/js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="node_modules/mdbootstrap/js/mdb.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js"></script>
+    <script type="text/javascript" src="node_modules/mdbootstrap/js/mdb.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js"></script>
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
     <script type="text/javascript" src="main.js"></script>
-
     <script type="text/javascript">
         $(() => {
-            // initTooltips('#navbarDropdownMenuLink', 'Return to the "Onboarding Badge" anytime here');
-            toastr['info']('You are currently on Step 3: Browse a Video', 'Onboarding Badge');
+            initTooltips('#navbarDropdownMenuLink', 'Your new badge has been added here! Keep track of all your in progress journeys and discover new ones here!');
+
         }); 
     </script>
 </body>

@@ -13,6 +13,7 @@
     <!-- Material Design Bootstrap -->
     <link href="node_modules/mdbootstrap/css/mdb.min.css" rel="stylesheet">
     <!-- Your custom styles (optional) -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
 
 </head>
@@ -37,11 +38,11 @@
                     <li class="nav-item">
                         <a class="nav-link waves-effect waves-light" href="journeys.html">Journeys</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item active">
                         <a class="nav-link waves-effect waves-light" href="support.html">Support</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link waves-effect waves-light" href="profiles.html">Profile</a>
+                        <a class="nav-link waves-effect waves-light" href="profile.html">Profile</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link waves-effect waves-light" href="shop.html">Shop</a>
@@ -64,7 +65,7 @@
                                 <span>Badges</span>
                             </a>
                         <div class="dropdown-menu dropdown-menu-right dropdown-default" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item waves-effect waves-light" href="index.html">Action</a>
+                            <a class="dropdown-item waves-effect waves-light" href="index-upload-photo.html">Onboarding Badge</a>
                             <a class="dropdown-item waves-effect waves-light" href="#">Another action</a>
                             <a class="dropdown-item waves-effect waves-light" href="#">Something else here</a>
                         </div>
@@ -72,7 +73,7 @@
                     <li class="nav-item">
                         <a class="nav-link waves-effect waves-light">
                             <!-- <i class="fa fa-google-plus"></i> -->
-                            <span>+100 Points</span>
+                            <span>+1000 Points</span>
                         </a>
                     </li>
                 </ul>
@@ -84,9 +85,11 @@
             <div class="row align-items-center">
                 <div class="col">
                     <h1>Support</h1>
+                    <p>PLACEHOLDER FOR VIDEO PAGE</p>
+                    <a class="btn btn-primary btn-lg" role="button" href="index-questions-done.html">RETURN TO ONBOARDING WIZARD</a>
                 </div>
             </div>
-        </div>        
+        </div>       
         <!-- CONTENT END -->
 
         <!--Footer-->
@@ -149,7 +152,15 @@
     <script type="text/javascript" src="node_modules/mdbootstrap/js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="node_modules/mdbootstrap/js/mdb.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js"></script>
-<script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+
+    <script type="text/javascript">
+        $(() => {
+            // initTooltips('#navbarDropdownMenuLink', 'Return to the "Onboarding Badge" anytime here');
+            toastr['info']('You are currently on Step 4: Ask a Question', 'Onboarding Badge');
+        }); 
+    </script>
 </body>
 
 </html>
