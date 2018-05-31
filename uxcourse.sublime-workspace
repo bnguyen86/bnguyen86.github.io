@@ -35,144 +35,153 @@
 			"file": "home-withTooltip.html",
 			"settings":
 			{
-				"buffer_size": 7763,
+				"buffer_size": 7807,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "home.html",
 			"settings":
 			{
-				"buffer_size": 7260,
+				"buffer_size": 7364,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "index-take-a-tour-done.html",
 			"settings":
 			{
-				"buffer_size": 10135,
+				"buffer_size": 10352,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "index-take-a-tour.html",
 			"settings":
 			{
-				"buffer_size": 10569,
+				"buffer_size": 10786,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "contacts.html",
 			"settings":
 			{
-				"buffer_size": 7264,
+				"buffer_size": 7368,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "index-questions.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 10914,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "index-upload-photo-done.html",
 			"settings":
 			{
-				"buffer_size": 10580,
+				"buffer_size": 10236,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "index-upload-photo.html",
 			"settings":
 			{
-				"buffer_size": 10580,
+				"buffer_size": 10797,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 10404,
+				"buffer_size": 10536,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "journeys.html",
 			"settings":
 			{
-				"buffer_size": 7264,
+				"buffer_size": 7368,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "profile.html",
 			"settings":
 			{
-				"buffer_size": 7263,
+				"buffer_size": 7992,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "settings.html",
 			"settings":
 			{
-				"buffer_size": 7264,
+				"buffer_size": 7368,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "shop.html",
 			"settings":
 			{
-				"buffer_size": 7260,
+				"buffer_size": 7364,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "support.html",
 			"settings":
 			{
-				"buffer_size": 7263,
+				"buffer_size": 7988,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "tour.html",
 			"settings":
 			{
-				"buffer_size": 8208,
+				"buffer_size": 8343,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "videos.html",
 			"settings":
 			{
-				"buffer_size": 7262,
+				"buffer_size": 7982,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 63,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -265,7 +274,7 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Workspace/uxcourse"
+		"/Users/bnguyen/Workspace/uxcourse"
 	],
 	"file_history":
 	[
@@ -281,7 +290,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -324,15 +333,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7763,
+						"buffer_size": 7807,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3154,
-								3154
+								0,
+								0
 							]
 						],
 						"settings":
@@ -346,7 +355,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
@@ -355,7 +364,37 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7260,
+						"buffer_size": 7364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index-take-a-tour-done.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10352,
 						"regions":
 						{
 						},
@@ -380,12 +419,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "index-take-a-tour-done.html",
+					"buffer": 3,
+					"file": "index-take-a-tour.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10135,
+						"buffer_size": 10786,
 						"regions":
 						{
 						},
@@ -410,12 +449,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "index-take-a-tour.html",
+					"buffer": 4,
+					"file": "contacts.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10569,
+						"buffer_size": 7368,
 						"regions":
 						{
 						},
@@ -428,6 +467,68 @@
 						],
 						"settings":
 						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index-questions.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index-upload-photo-done.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -440,12 +541,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "contacts.html",
+					"buffer": 7,
+					"file": "index-upload-photo.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7264,
+						"buffer_size": 10797,
 						"regions":
 						{
 						},
@@ -458,66 +559,6 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "index-questions.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "index-upload-photo-done.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10580,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -530,12 +571,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "index-upload-photo.html",
+					"buffer": 8,
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10580,
+						"buffer_size": 10536,
 						"regions":
 						{
 						},
@@ -560,12 +601,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "index.html",
+					"buffer": 9,
+					"file": "journeys.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10404,
+						"buffer_size": 7368,
 						"regions":
 						{
 						},
@@ -590,12 +631,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "journeys.html",
+					"buffer": 10,
+					"file": "profile.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7264,
+						"buffer_size": 7992,
 						"regions":
 						{
 						},
@@ -620,12 +661,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "profile.html",
+					"buffer": 11,
+					"file": "settings.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7263,
+						"buffer_size": 7368,
 						"regions":
 						{
 						},
@@ -650,12 +691,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 11,
-					"file": "settings.html",
+					"buffer": 12,
+					"file": "shop.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7264,
+						"buffer_size": 7364,
 						"regions":
 						{
 						},
@@ -680,12 +721,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 12,
-					"file": "shop.html",
+					"buffer": 13,
+					"file": "support.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7260,
+						"buffer_size": 7988,
 						"regions":
 						{
 						},
@@ -710,12 +751,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 13,
-					"file": "support.html",
+					"buffer": 14,
+					"file": "tour.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7263,
+						"buffer_size": 8343,
 						"regions":
 						{
 						},
@@ -740,12 +781,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 14,
-					"file": "tour.html",
+					"buffer": 15,
+					"file": "videos.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8208,
+						"buffer_size": 7982,
 						"regions":
 						{
 						},
@@ -754,36 +795,6 @@
 							[
 								0,
 								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "videos.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7262,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1610,
-								1610
 							]
 						],
 						"settings":
@@ -797,20 +808,51 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 16,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -846,6 +888,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.exec":
 	{
 		"height": 183.0
@@ -866,7 +912,7 @@
 	"project": "uxcourse.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
