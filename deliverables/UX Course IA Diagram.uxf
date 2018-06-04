@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>900</x>
+      <y>630</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Step 1
+(Site Tour)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>1020</x>
+      <y>630</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Step 2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>1140</x>
+      <y>630</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Step 3</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>1260</x>
+      <y>630</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Step 4</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>1380</x>
+      <y>630</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Step3</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>890</x>
+      <y>590</y>
+      <w>610</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>590.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLObject</id>
+    <coordinates>
+      <x>900</x>
+      <y>550</y>
+      <w>150</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>More General Steps</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLObject</id>
+    <coordinates>
+      <x>1330</x>
+      <y>550</y>
+      <w>150</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>More Specific Steps</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>940</x>
+      <y>660</y>
+      <w>30</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>10.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>890</x>
+      <y>450</y>
+      <w>590</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Badge to be Earned</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>880</x>
+      <y>750</y>
+      <w>150</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Points to be Earned</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>940</x>
+      <y>780</y>
+      <w>30</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>10.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>880</x>
+      <y>870</y>
+      <w>150</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Step Description</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>890</x>
+      <y>500</y>
+      <w>590</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Overall Description of Task/Journey</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>940</x>
+      <y>900</y>
+      <w>30</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>10.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>810</x>
+      <y>990</y>
+      <w>310</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Preceed to where the step will be completed</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

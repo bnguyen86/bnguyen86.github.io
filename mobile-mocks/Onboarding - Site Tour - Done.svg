@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 640">
+  <defs>
+    <style>
+      .cls-1, .cls-20, .cls-21 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Onboarding_-_Site_Tour_-_Done);
+      }
+
+      .cls-3 {
+        fill: #6e3b00;
+      }
+
+      .cls-4 {
+        fill: #795548;
+      }
+
+      .cls-5, .cls-6, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        font-size: 20px;
+      }
+
+      .cls-11, .cls-13, .cls-14, .cls-15, .cls-6, .cls-9 {
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-7 {
+        fill: #3e1d00;
+      }
+
+      .cls-8 {
+        opacity: 0.9;
+      }
+
+      .cls-10, .cls-13, .cls-9 {
+        font-size: 14px;
+      }
+
+      .cls-10, .cls-11, .cls-14, .cls-15 {
+        fill: rgba(0,0,0,0.87);
+      }
+
+      .cls-10 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-11 {
+        font-size: 34px;
+      }
+
+      .cls-11, .cls-15 {
+        opacity: 0.87;
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-13 {
+        fill: #4d4d4d;
+      }
+
+      .cls-14 {
+        font-size: 16px;
+      }
+
+      .cls-15 {
+        font-size: 23px;
+      }
+
+      .cls-16 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-17 {
+        fill: #78849e;
+        opacity: 0.317;
+      }
+
+      .cls-18, .cls-24 {
+        fill: #4d4f5c;
+      }
+
+      .cls-18 {
+        font-size: 4px;
+      }
+
+      .cls-18, .cls-22, .cls-24 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-19, .cls-22 {
+        fill: #3b86ff;
+      }
+
+      .cls-20 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-21 {
+        stroke: #3b86ff;
+      }
+
+      .cls-22, .cls-24 {
+        font-size: 5px;
+      }
+
+      .cls-23 {
+        fill: #e9e9f0;
+      }
+
+      .cls-25 {
+        stroke: none;
+      }
+
+      .cls-26 {
+        filter: url(#path);
+      }
+
+      .cls-27 {
+        filter: url(#Tool_bar_bg-2);
+      }
+
+      .cls-28 {
+        filter: url(#Tool_bar_bg);
+      }
+    </style>
+    <filter id="Tool_bar_bg" x="-6" y="-6" width="372" height="92" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tool_bar_bg-2" x="-6" y="-2" width="372" height="92" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="path" x="21.5" y="125.694" width="317.083" height="438.647" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="160.311" height="39.864"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="40" height="8"/>
+    </clipPath>
+    <clipPath id="clip-Onboarding_-_Site_Tour_-_Done">
+      <rect width="360" height="640"/>
+    </clipPath>
+  </defs>
+  <g id="Onboarding_-_Site_Tour_-_Done" data-name="Onboarding - Site Tour - Done" class="cls-2">
+    <rect class="cls-5" width="360" height="640"/>
+    <g id="_1" data-name="#1">
+      <g id="Tool_bar" data-name="Tool bar">
+        <g id="Tool_bar_bg-3" data-name="Tool bar bg">
+          <g class="cls-28" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <path id="Tool_bar_bg-4" data-name="Tool bar bg" class="cls-3" d="M360,0H0V80H360Z"/>
+          </g>
+          <g class="cls-27" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <path id="Tool_bar_bg-5" data-name="Tool bar bg" class="cls-4" d="M360,0H0V80H360Z"/>
+          </g>
+          <path id="ic_verified_user_24px" class="cls-5" d="M12,1,3,5v6c0,5.55,3.84,10.74,9,12,5.16-1.26,9-6.45,9-12V5ZM10,17,6,13l1.41-1.41L10,14.17l6.59-6.59L18,9Z" transform="translate(297 39)"/>
+        </g>
+        <g id="Tool_bar_contents" data-name="Tool bar contents" transform="translate(16 40)">
+          <path id="Bounds" class="cls-1" d="M360,0H0V56H360Z" transform="translate(-16 -16)"/>
+          <g id="More_Icon" data-name="More Icon" transform="translate(316)">
+            <rect id="Bounds-2" data-name="Bounds" class="cls-1" width="12" height="24"/>
+            <path id="Icon" class="cls-5" d="M6,8A2,2,0,1,0,4,6,2.006,2.006,0,0,0,6,8Zm0,2a2,2,0,1,0,2,2,2.006,2.006,0,0,0-2-2Zm0,6a2,2,0,1,0,2,2,2.006,2.006,0,0,0-2-2Z"/>
+          </g>
+          <g id="Search_Icon" data-name="Search Icon" transform="translate(276)">
+            <path id="Bounds-3" data-name="Bounds" class="cls-1" d="M24,24H0V0H24Z"/>
+          </g>
+          <text id="Coffee_Friends" data-name="Coffee Friends" class="cls-6" transform="translate(56 19)"><tspan x="0" y="0">Coffee Friends</tspan></text>
+          <g id="Burger_Button" data-name="Burger Button" transform="translate(0 -1)">
+            <rect id="Bounds-4" data-name="Bounds" class="cls-1" width="24" height="24"/>
+            <path id="Icon-2" data-name="Icon" class="cls-5" d="M3,18H21V16H3v2Zm0-5H21V11H3v2ZM3,6V8H21V6Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="Status_bar" data-name="Status bar">
+        <rect id="Status_bar_bg" data-name="Status bar bg" class="cls-7" width="360" height="24"/>
+        <g id="Status_bar-2" data-name="Status bar">
+          <rect id="Bounds-5" data-name="Bounds" class="cls-1" width="118" height="24" transform="translate(242)"/>
+          <g id="Time" class="cls-8" transform="translate(316 4)">
+            <text id="_12:30" data-name="12:30" class="cls-9" transform="translate(0.46 13)"><tspan x="0" y="0">12:30</tspan></text>
+          </g>
+          <g id="Battery" transform="translate(297 4)">
+            <path id="Bounds-6" data-name="Bounds" class="cls-1" d="M0,0H16V16H0Z"/>
+            <path id="Shape" class="cls-5" d="M9,1.9V1H6v.9H3V15h9V1.9Z"/>
+          </g>
+          <g id="Cellular" transform="translate(277 4)">
+            <path id="Bounds-7" data-name="Bounds" class="cls-1" d="M0,0H16V16H0Z"/>
+            <path id="Shape-2" data-name="Shape" class="cls-5" d="M0,15H14V1Z"/>
+          </g>
+          <g id="Wifi" transform="translate(256 4)">
+            <path id="Bounds-8" data-name="Bounds" class="cls-1" d="M2,0H18V16H2Z"/>
+            <path id="Shape-3" data-name="Shape" class="cls-5" d="M19,4a14.76,14.76,0,0,0-9-3A14.76,14.76,0,0,0,1,4l9,11Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 -4)">
+      <g id="Group_1" data-name="Group 1">
+        <g id="card_1" transform="translate(-36 32.944)">
+          <g class="cls-26" transform="matrix(1, 0, 0, 1, 36, -28.94)">
+            <path id="path-2" data-name="path" class="cls-5" d="M316.083,435.433h0a2.043,2.043,0,0,1-1.791,2.215H9.791A2.043,2.043,0,0,1,8,435.433H8V10.215H8A2.043,2.043,0,0,1,9.791,8h304.5a2.043,2.043,0,0,1,1.791,2.215h0Z" transform="translate(18 121.19)"/>
+          </g>
+          <text id="Text" class="cls-10" transform="translate(75.329 282.983)"><tspan x="0" y="15">Lorem ipsum dolor sit amet, soluta </tspan><tspan x="0" y="35">regione urbanitas vis in, qui elit populo </tspan></text>
+          <text id="Title" class="cls-11" transform="translate(74.9 149.075)"><tspan x="0" y="0">Site Tour</tspan></text>
+          <g id="Action" class="cls-12" transform="translate(69.165 481.174)">
+            <g id="group" transform="translate(-441.833 -487.005)">
+              <g id="Symbol_2_1" data-name="Symbol 2 – 1">
+                <text id="Action_1_2" data-name="Action 1 &amp; 2" class="cls-13" transform="translate(449.833 510.005)"><tspan x="0" y="0">CLOSE</tspan></text>
+                <g id="Symbol_1_1" data-name="Symbol 1 – 1">
+                  <rect id="Rectangle_176" data-name="Rectangle 176" class="cls-1" width="8" height="36" transform="translate(441.833 487.005)"/>
+                </g>
+                <g id="Symbol_1_2" data-name="Symbol 1 – 2" transform="translate(69 0)">
+                  <rect id="Rectangle_176-2" data-name="Rectangle 176" class="cls-1" width="8" height="36" transform="translate(441.833 487.005)"/>
+                </g>
+              </g>
+            </g>
+            <g id="group-2" data-name="group" transform="translate(-355.833 -487.005)">
+              <g id="Symbol_2_2" data-name="Symbol 2 – 2">
+                <text id="Action_1_2-2" data-name="Action 1 &amp; 2" class="cls-13" transform="translate(449.833 510.005)"><tspan x="0" y="0">NEXT</tspan></text>
+                <g id="Symbol_1_1-2" data-name="Symbol 1 – 1">
+                  <rect id="Rectangle_176-3" data-name="Rectangle 176" class="cls-1" width="8" height="36" transform="translate(441.833 487.005)"/>
+                </g>
+                <g id="Symbol_1_2-2" data-name="Symbol 1 – 2" transform="translate(69 0)">
+                  <rect id="Rectangle_176-4" data-name="Rectangle 176" class="cls-1" width="8" height="36" transform="translate(441.833 487.005)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <text id="You_have_earned:" data-name="You have earned:" class="cls-14" transform="translate(75 208.056)"><tspan x="0" y="0">You have earned:</tspan></text>
+          <text id="Title-2" data-name="Title" class="cls-15" transform="translate(68.9 236.075)"><tspan x="0" y="0">+1000 Points</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(28 -4)">
+      <g id="pagination_light" data-name="pagination/light" transform="translate(-170 239)">
+        <g id="Repeat_Grid" data-name="Repeat Grid" class="cls-16" transform="translate(303 352)">
+          <g transform="translate(-48 -460)">
+            <rect id="dot" class="cls-17" width="8" height="8" rx="4" transform="translate(48 460)"/>
+          </g>
+          <g transform="translate(-32 -460)">
+            <rect id="dot-2" data-name="dot" class="cls-17" width="8" height="8" rx="4" transform="translate(48 460)"/>
+          </g>
+          <g transform="translate(-16 -460)">
+            <rect id="dot-3" data-name="dot" class="cls-17" width="8" height="8" rx="4" transform="translate(48 460)"/>
+          </g>
+        </g>
+        <rect id="dot-4" data-name="dot" class="cls-7" width="8" height="8" rx="4" transform="translate(287 352)"/>
+        <rect id="dot-5" data-name="dot" class="cls-17" width="8" height="8" rx="4" transform="translate(303 352)"/>
+        <rect id="dot-6" data-name="dot" class="cls-17" width="8" height="8" rx="4" transform="translate(319 352)"/>
+        <rect id="dot-7" data-name="dot" class="cls-17" width="8" height="8" rx="4" transform="translate(335 352)"/>
+      </g>
+      <rect id="dot-8" data-name="dot" class="cls-17" width="8" height="8" rx="4" transform="translate(180 591)"/>
+    </g>
+    <g id="stepper-3" transform="translate(-320 -249)">
+      <g id="step1" transform="translate(358 701)">
+        <text id="Step_1" data-name="Step 1" class="cls-18" transform="translate(6.382 20.801)"><tspan x="-5.523" y="0">Step 1</tspan></text>
+        <circle id="Ellipse" class="cls-19" cx="7.255" cy="7.255" r="7.255"/>
+        <path id="Path_294" data-name="Path 294" class="cls-20" d="M1187.471,715.676l1.869,1.845,3.21-3.206" transform="translate(-1182.709 -708.085)"/>
+      </g>
+      <g id="step3" transform="translate(538.612 701)">
+        <text id="Step_3" data-name="Step 3" class="cls-18" transform="translate(6.382 20.801)"><tspan x="-5.523" y="0">Step 3</tspan></text>
+        <g id="Ellipse-2" data-name="Ellipse" class="cls-21">
+          <circle class="cls-25" cx="7.255" cy="7.255" r="7.255"/>
+          <circle class="cls-1" cx="7.255" cy="7.255" r="6.755"/>
+        </g>
+        <text id="_3" data-name="3" class="cls-22" transform="translate(6.728 8.818)"><tspan x="-1.348" y="0">3</tspan></text>
+      </g>
+      <g id="step4" transform="translate(628.345 701)">
+        <text id="Step_4" data-name="Step 4" class="cls-18" transform="translate(6.382 20.801)"><tspan x="-5.523" y="0">Step 4</tspan></text>
+        <g id="Ellipse-3" data-name="Ellipse" class="cls-21">
+          <circle class="cls-25" cx="7.255" cy="7.255" r="7.255"/>
+          <circle class="cls-1" cx="7.255" cy="7.255" r="6.755"/>
+        </g>
+        <text id="_4" data-name="4" class="cls-22" transform="translate(6.728 8.818)"><tspan x="-1.348" y="0">4</tspan></text>
+      </g>
+      <path id="Line" class="cls-19" d="M0,0H.382V68.732H0Z" transform="translate(444.565 708.446) rotate(90)"/>
+      <path id="Line-2" data-name="Line" class="cls-23" d="M0,0H.382V68.732H0Z" transform="translate(535.062 708.446) rotate(90)"/>
+      <path id="Line-3" data-name="Line" class="cls-23" d="M0,0H.382V68.732H0Z" transform="translate(625.558 708.064) rotate(90)"/>
+      <g id="step2" transform="translate(-782 11)">
+        <text id="Step_2" data-name="Step 2" class="cls-24" transform="translate(1237.418 712.399)"><tspan x="-6.904" y="0">Step 2</tspan></text>
+        <g id="Ellipse-4" data-name="Ellipse" class="cls-21" transform="translate(1230 689)">
+          <circle class="cls-25" cx="7.945" cy="7.945" r="7.945"/>
+          <circle class="cls-1" cx="7.945" cy="7.945" r="7.445"/>
+        </g>
+        <text id="_2" data-name="2" class="cls-22" transform="translate(1237.272 698.182)"><tspan x="-1.348" y="0">2</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

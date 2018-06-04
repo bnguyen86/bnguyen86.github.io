@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"index",
+				"index-upload-photo"
+			],
+			[
 				"border-c",
 				"border-color\tproperty"
 			],
@@ -37,7 +41,7 @@
 			{
 				"buffer_size": 7807,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -46,7 +50,7 @@
 			{
 				"buffer_size": 7364,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -55,7 +59,7 @@
 			{
 				"buffer_size": 10352,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -64,7 +68,7 @@
 			{
 				"buffer_size": 10786,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -73,7 +77,7 @@
 			{
 				"buffer_size": 7368,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -82,7 +86,7 @@
 			{
 				"buffer_size": 10914,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -91,7 +95,51 @@
 			{
 				"buffer_size": 10236,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index-video-done.html",
+			"settings":
+			{
+				"buffer_size": 10303,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index-questions-done.html",
+			"settings":
+			{
+				"buffer_size": 10305,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index-complete.html",
+			"settings":
+			{
+				"buffer_size": 10301,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 869,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index-video.html",
+			"settings":
+			{
+				"buffer_size": 10918,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -100,7 +148,7 @@
 			{
 				"buffer_size": 10797,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -109,7 +157,7 @@
 			{
 				"buffer_size": 10536,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -118,7 +166,7 @@
 			{
 				"buffer_size": 7368,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -127,7 +175,17 @@
 			{
 				"buffer_size": 7992,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 89 files for \"<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n    <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>\n\"\n\n0 matches\n\nSearching 89 files for \"<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>\"\n\n0 matches\n\nSearching 89 files for \"<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>\"\n\nE:\\Workspace\\uxcourse\\home-withTooltip.html:\n  155      <script type=\"text/javascript\" src=\"node_modules/mdbootstrap/js/mdb.min.js\"></script>\n  156  <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n  157:     <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>    <script type=\"text/javascript\" src=\"main.js\"></script>\n  158  <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n  159:     <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>    <script type=\"text/javascript\" src=\"main.js\"></script>\n  160  \n  161      <script type=\"text/javascript\">\n\nE:\\Workspace\\uxcourse\\index-take-a-tour-done.html:\n  189      <script type=\"text/javascript\" src=\"node_modules/mdbootstrap/js/mdb.min.js\"></script>\n  190  <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n  191:     <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>    <script type=\"text/javascript\" src=\"main.js\"></script>\n  192      <script type=\"text/javascript\">\n  193          $(() => {\n\nE:\\Workspace\\uxcourse\\index-take-a-tour.html:\n  194      <script type=\"text/javascript\" src=\"node_modules/mdbootstrap/js/mdb.min.js\"></script>\n  195  <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n  196:     <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>    <script type=\"text/javascript\" src=\"main.js\"></script>\n  197      <script type=\"text/javascript\">\n  198          $(() => {\n\nE:\\Workspace\\uxcourse\\index-upload-photo-done.html:\n  189      <script type=\"text/javascript\" src=\"node_modules/mdbootstrap/js/mdb.min.js\"></script>\n  190  <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n  191:     <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>    <script type=\"text/javascript\" src=\"main.js\"></script>\n  192      <script type=\"text/javascript\">\n  193          $(() => {\n\nE:\\Workspace\\uxcourse\\index-upload-photo.html:\n  194      <script type=\"text/javascript\" src=\"node_modules/mdbootstrap/js/mdb.min.js\"></script>\n  195  <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n  196:     <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>    <script type=\"text/javascript\" src=\"main.js\"></script>\n  197      <script type=\"text/javascript\">\n  198          $(() => {\n\nE:\\Workspace\\uxcourse\\index-video.html:\n  194      <script type=\"text/javascript\" src=\"node_modules/mdbootstrap/js/mdb.min.js\"></script>\n  195  <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n  196:     <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>    <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>\n  197      <script type=\"text/javascript\" src=\"main.js\"></script>\n  198      <script type=\"text/javascript\">\n\nE:\\Workspace\\uxcourse\\tour.html:\n  161      <script type=\"text/javascript\" src=\"node_modules/mdbootstrap/js/mdb.min.js\"></script>\n  162  <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n  163:     <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>    <script type=\"text/javascript\" src=\"main.js\"></script>\n  164  <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n  165:     <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>    <script type=\"text/javascript\" src=\"main.js\"></script>\n  166  \n  167      <script type=\"text/javascript\">\n\n10 matches across 7 files\n",
+			"settings":
+			{
+				"buffer_size": 4990,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
 			}
 		},
 		{
@@ -136,7 +194,7 @@
 			{
 				"buffer_size": 7368,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -145,7 +203,7 @@
 			{
 				"buffer_size": 7364,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -154,16 +212,16 @@
 			{
 				"buffer_size": 7988,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "tour.html",
 			"settings":
 			{
-				"buffer_size": 8343,
+				"buffer_size": 8457,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -172,16 +230,37 @@
 			{
 				"buffer_size": 7982,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "README.md",
+			"file": "node_modules/mdbootstrap/index.html",
 			"settings":
 			{
-				"buffer_size": 63,
+				"buffer_size": 1664,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.ts",
+			"settings":
+			{
+				"buffer_size": 873,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ".main{\n    display: flex;\n    flex-direction: column;\n    justify-content: space-between;\n    height: 100vh;\n}\n\n.close-bar{\n    margin-top: -3rem;\n    padding-bottom: 1rem;\n}\n\n\n.list-group-item.active{\n    border-color: #000;\n}\n\n.navbar{\n    padding-bottom: 2rem;\n    padding-top: 2rem;\n}\n\n.jumbotron{\n    margin-top: 2rem;\n}\n\n#toast-container.toast-bottom-center>div, #toast-container.toast-top-center>div {\n    width: 80vw;\n    margin-bottom: 5vh;\n}",
+			"file": "style.css",
+			"file_size": 455,
+			"file_write_time": 131725436141078002,
+			"settings":
+			{
+				"buffer_size": 451,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -274,7 +353,7 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/bnguyen/Workspace/uxcourse"
+		"/E/Workspace/uxcourse"
 	],
 	"file_history":
 	[
@@ -290,7 +369,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -305,6 +384,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\"",
+			"<!-- Your custom styles (optional) -->",
+			"<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>",
+			"<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>",
+			"<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n    <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>\n",
+			"    <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n",
 			"<a class=\"nav-link waves-effect waves-light\" href=\"profiles.html\">Profile</a>"
 		],
 		"highlight": true,
@@ -313,6 +398,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"<!-- Your custom styles (optional) -->\n    <link href=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css\" rel=\"stylesheet\">",
+			"<script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.1/umd/popper.min.js\"></script>\n    <script type=\"text/javascript\" src=\"//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js\"></script>",
 			"<a class=\"nav-link waves-effect waves-light\" href=\"profile.html\">Profile</a>"
 		],
 		"reverse": false,
@@ -324,7 +411,7 @@
 	"groups":
 	[
 		{
-			"selected": 15,
+			"selected": 20,
 			"sheets":
 			[
 				{
@@ -340,8 +427,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								7717,
+								7717
 							]
 						],
 						"settings":
@@ -352,10 +439,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2700.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -385,7 +472,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
@@ -401,21 +488,22 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								5624,
+								5624
 							]
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1700.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
@@ -432,11 +520,12 @@
 						[
 							[
 								0,
-								0
+								10786
 							]
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -445,7 +534,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
@@ -475,7 +564,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
@@ -491,8 +580,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								7608,
+								7608
 							]
 						],
 						"settings":
@@ -502,11 +591,11 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": 49.0,
+						"translation.y": 1780.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -522,8 +611,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								6536,
+								6536
 							]
 						],
 						"settings":
@@ -534,14 +623,169 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1880.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
 					"buffer": 7,
+					"file": "index-video-done.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								10303
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 228.0,
+						"translation.y": 1660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "index-questions-done.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4725,
+								4725
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 49.0,
+						"translation.y": 2243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "index-complete.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5911,
+								5911
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "index-video.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								10918
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1715.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
 					"file": "index-upload-photo.html",
 					"semi_transient": false,
 					"settings":
@@ -553,25 +797,26 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								4724,
+								4724
 							]
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": 273.0,
+						"translation.y": 1880.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 13,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
@@ -583,25 +828,26 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								5813,
+								5670
 							]
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1940.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 14,
 					"file": "journeys.html",
 					"semi_transient": false,
 					"settings":
@@ -619,6 +865,7 @@
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -627,11 +874,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 15,
 					"file": "profile.html",
 					"semi_transient": false,
 					"settings":
@@ -643,25 +890,111 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								7794,
+								7794
 							]
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2580.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 16,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4990,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										952,
+										1065
+									],
+									[
+										1257,
+										1370
+									],
+									[
+										1762,
+										1875
+									],
+									[
+										2279,
+										2392
+									],
+									[
+										2802,
+										2915
+									],
+									[
+										3320,
+										3433
+									],
+									[
+										3831,
+										3944
+									],
+									[
+										3948,
+										4061
+									],
+									[
+										4435,
+										4548
+									],
+									[
+										4740,
+										4853
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								713,
+								713
+							]
+						],
+						"settings":
+						{
+							"default_dir": "E:\\Workspace\\uxcourse",
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 200.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
 					"file": "settings.html",
 					"semi_transient": false,
 					"settings":
@@ -687,11 +1020,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 18,
 					"file": "shop.html",
 					"semi_transient": false,
 					"settings":
@@ -717,11 +1050,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 19,
 					"file": "support.html",
 					"semi_transient": false,
 					"settings":
@@ -733,55 +1066,58 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								4968,
+								4968
 							]
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1596.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 20,
 					"file": "tour.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8343,
+						"buffer_size": 8457,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1520,
+								1520
 							]
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 381.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 21,
 					"file": "videos.html",
 					"semi_transient": false,
 					"settings":
@@ -794,6 +1130,37 @@
 						[
 							[
 								0,
+								7982
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 276.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "node_modules/mdbootstrap/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
 								0
 							]
 						],
@@ -808,7 +1175,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 16,
 					"type": "text"
 				}
 			]
@@ -818,33 +1185,70 @@
 			"sheets":
 			[
 				{
-					"buffer": 16,
-					"file": "README.md",
+					"buffer": 23,
+					"file": "main.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 63,
+						"buffer_size": 873,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								63,
-								63
+								332,
+								332
 							]
 						],
 						"settings":
 						{
-							"auto_complete": false,
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -852,7 +1256,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -883,12 +1287,12 @@
 		"rows":
 		[
 			0.0,
-			0.5,
+			0.524519981099,
 			1.0
 		]
 	},
 	"menu_visible": true,
-	"output.SublimeLinter":
+	"output.doc":
 	{
 		"height": 0.0
 	},
@@ -912,7 +1316,7 @@
 	"project": "uxcourse.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -921,6 +1325,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pro",
+				"profile.html"
+			]
 		],
 		"width": 0.0
 	},
@@ -942,7 +1350,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
